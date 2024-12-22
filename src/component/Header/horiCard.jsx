@@ -22,9 +22,7 @@ function HoriCard() {
               Dr. Jasbir Arya
             </h4>
             <p className="text-base text-gray-700 leading-relaxed">
-              Like so many organizations these days, Autodesk is a company in transition. It was until recently a
-              traditional boxed software company selling licenses. Yet its own business model disruption is only
-              part of the story.
+            My life aim is to contribute towards building India as an economic and military superpower while maintaining its spiritual and peaceful essence. I have completed a Bachelor’s degree in Sociology and obtained professional qualifications, including a Diploma in Journalism, Ayurvedacharya (B.A.M.S.), and various degrees in Ayurvedic and naturopathic practices. I am also certified in C.E.H.M. from Britain. With experience as a Senior Journalist and Writer, I specialize in crime news and intelligence services. Additionally, I am well-versed in Ayurvedic & Herbal Medicines, Yoga, Meditation, and Naturopathy. I possess strong management and leadership skills, and I value punctuality, discipline, and a deep commitment to nationalism and humanity. I have worked across various regions of India, aiming to make a meaningful impact through my diverse expertise.
             </p>
           </div>
         </div>
