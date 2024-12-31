@@ -17,7 +17,7 @@ function HoriCard() {
   {/* Content Section */}
   <div className="p-6 flex flex-col justify-center w-full md:w-2/3">
     <h6 className="text-base font-semibold text-gray-700 uppercase mb-1">
-      Director
+      Director in Chief 
     </h6>
     <h4 className="text-2xl font-semibold text-blue-gray-900 mb-2">
       Dr. Jasbir Arya
