@@ -1,4 +1,5 @@
 import React from 'react';
+import profile from "../../images/profile.png"
 
 function HoriCard() {
   return (
@@ -8,8 +9,7 @@ function HoriCard() {
   {/* Image Section */}
   <div className="relative w-full md:w-1/3 h-64 md:h-auto overflow-hidden bg-white rounded-t-xl md:rounded-l-xl md:rounded-tr-none">
     <img
-      src="https://drjasbiraryajournalist.wordpress.com/wp-content/uploads/2021/07/screenshot_20210703-214057_wordpress-1.jpg"
-      alt="card-image"
+      src= {profile}
       className="object-cover w-full h-full"
     />
   </div>
